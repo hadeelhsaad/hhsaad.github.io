@@ -86,7 +86,7 @@
 
   margin: 0 auto 1rem;
 
-  border: 5px solid #ffffff;
+  border: 5px solid #000000;
   border-radius: 0 !important;
   box-shadow: none !important;
 }
@@ -97,7 +97,7 @@
 
   margin: 0 0 0.8rem !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
 
   font-size: clamp(2.15rem, 2.8vw, 3.15rem) !important;
   font-weight: 800 !important;
@@ -132,7 +132,7 @@
 .home-institution {
   margin: 0 0 0.55rem !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
 
   font-size: clamp(0.82rem, 0.95vw, 0.98rem) !important;
   line-height: 1.35 !important;
@@ -143,7 +143,7 @@
 .home-email {
   margin: 0 !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
 
   font-size: clamp(0.82rem, 0.95vw, 0.98rem) !important;
   line-height: 1.35 !important;
@@ -156,7 +156,7 @@
   margin: 0 !important;
   padding: 0 !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
   background: transparent !important;
 
   border: none !important;
@@ -206,10 +206,10 @@ a[href="mailto:hhsaad@umich.edu"] span:first-child {
   margin: 0 !important;
   padding: 0.35rem 0.8rem !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
   background: rgba(20, 20, 20, 0.48) !important;
 
-  border: 2px solid #ffffff !important;
+  border: 2px solid #000000 !important;
   border-radius: 6px !important;
   box-shadow: none !important;
 
@@ -229,7 +229,7 @@ a[href="mailto:hhsaad@umich.edu"] span:first-child {
 .home-profile a.home-profile-button:hover,
 .home-profile a.home-profile-button:focus-visible {
   color: #222222 !important;
-  background: #ffffff !important;
+  background: #000000 !important;
   transform: translateY(-1px);
 }
 
@@ -242,7 +242,7 @@ a[href="mailto:hhsaad@umich.edu"] span:first-child {
 .home-bio p {
   margin: 0 0 2.2rem !important;
 
-  color: #ffffff !important;
+  color: #000000 !important;
 
   font-size: clamp(1.35rem, 1.65vw, 1.8rem) !important;
   line-height: 1.6 !important;

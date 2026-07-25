@@ -13,7 +13,7 @@ sections:
 
         <p>Why are species found where they are today? Why do some places contain more species than others? These may seem like simple questions, but the answers are not straightforward.</p>
 
-        <p>My research examines the biogeography (where organisms occur) and biodiversity (how many organisms are present) of tropical marine fishes throughout the past 66 million years, the Cenozoic, with a particular focus on the Indo–West Pacific. I use extinct and extant specimens, spatial data, and paleoanalytic tools to investigate how organisms and their communities changed over time.</p>
+        <p>My research examines the biogeography (where organisms occur) and biodiversity (how many organisms are present) of tropical marine fishes throughout the past 66 million years, the Cenozoic, with a particular focus on the Indo–West Pacific (IWP). I use extinct and extant specimens, spatial data, and paleoanalytic tools to investigate how organisms and their communities changed over time.</p>
 
         <p>I am not a fish loyalist and often collaborate with people outside my typical scope, including those studying bats, plants, molecular data, education, and other biodiversity-related topics. Feel free to send me an email if you want to work together :)</p>
 
@@ -22,7 +22,7 @@ sections:
         <div class="research-split">
         <div class="research-text">
         <h2>Describing fossil lineages</h2>
-        <p>I have contributed to descriptive and taxonomic projects, especially on fossils from regions that are underrepresented in existing datasets. These specimens can add important new baseline information and help reveal when and where ecological and trophic innovations appeared through time.</p>
+        <p>I have contributed to descriptive and taxonomic projects, particularly those focused on fossils from regions underrepresented in existing datasets. The fossils I study are typically acanthuriforms from tropical coastal environments. These specimens provide important baseline data and help reveal when and where ecological and trophic innovations emerged through time.</p>
         </div>
 
         <div class="research-image">
@@ -43,7 +43,7 @@ sections:
 
         <div class="research-text">
         <h2>Documenting past ecosystems</h2>
-        <p>A major limitation in understanding biodiversity today is the lack of understanding of how fish communities have looked since the last major extinction event. I have worked on numerous projects that quantitatively compare faunas to examine the relative paleoenvironmental, paleogeographic, and stratigraphic controls on ancient fish communities in and around the IWP.</p>
+        <p>A major limitation in understanding biodiversity today is the lack of understanding how fish communities have looked since the last major extinction event. I have worked on numerous projects trying to compare fossil fish faunas. One of the ones I am currently working on compares fossil and modern fish communities across the Cenozoic, to examine the relative paleoenvironmental, paleogeographic, and stratigraphic controls on ancient fish communities in and around the IWP. </p>
         </div>
         </div>
 
